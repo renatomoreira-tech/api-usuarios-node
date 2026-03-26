@@ -15,3 +15,10 @@ Projeto simples de API REST desenvolvido com Node.js e Express.
 ```bash
 npm install
 node app.js
+🌐 Endpoint
+
+GET /usuarios
+
+📌 Autor
+
+Renato Moreira
